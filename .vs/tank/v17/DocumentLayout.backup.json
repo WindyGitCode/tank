@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Hub\\project\\tank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|d:\\unity hub\\project\\tank\\assets\\prefabs\\ratate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\ratate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|d:\\unity hub\\project\\tank\\assets\\prefabs\\ratate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\ratate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ratate2.cs",
+              "DocumentMoniker": "D:\\Unity Hub\\project\\tank\\Assets\\Prefabs\\Ratate2.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Ratate2.cs",
+              "ToolTip": "D:\\Unity Hub\\project\\tank\\Assets\\Prefabs\\Ratate2.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Ratate2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T04:06:08.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ratate.cs",
+              "DocumentMoniker": "D:\\Unity Hub\\project\\tank\\Assets\\Prefabs\\Ratate.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Ratate.cs",
+              "ToolTip": "D:\\Unity Hub\\project\\tank\\Assets\\Prefabs\\Ratate.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Ratate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T03:57:30.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
