@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUIToggle.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Base\CustomGUIControl.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUIButton.cs" />
+    <Compile Include="Assets\Scripts\game\BeginPanel.cs" />
     <Compile Include="Assets\Scripts\game\Ratate2.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Base\CustomGUIRoot.cs" />
     <Compile Include="Assets\Scripts\game\UIbase.cs" />

@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Unity Hub\\project\\tank\\",
+  "WorkspaceRootPath": "F:\\unity_hub\\tank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|d:\\unity hub\\project\\tank\\assets\\prefabs\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|f:\\unity_hub\\tank\\assets\\scripts\\game\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|d:\\unity hub\\project\\tank\\assets\\prefabs\\ratate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\ratate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\Unity Hub\\project\\tank\\assets\\prefabs\\ratate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\ratate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|F:\\unity_hub\\tank\\assets\\scripts\\game\\uibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\uibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "test.cs",
-              "DocumentMoniker": "D:\\Unity Hub\\project\\tank\\Assets\\Prefabs\\test.cs",
-              "RelativeDocumentMoniker": "Assets\\Prefabs\\test.cs",
-              "ToolTip": "D:\\Unity Hub\\project\\tank\\Assets\\Prefabs\\test.cs",
-              "RelativeToolTip": "Assets\\Prefabs\\test.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Title": "BeginPanel.cs",
+              "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\BeginPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\BeginPanel.cs",
+              "ToolTip": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\BeginPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\game\\BeginPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T05:36:00.199Z",
+              "WhenOpened": "2025-09-27T07:32:50.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Ratate2.cs",
-              "DocumentMoniker": "D:\\Unity Hub\\project\\tank\\Assets\\Prefabs\\Ratate2.cs",
-              "RelativeDocumentMoniker": "Assets\\Prefabs\\Ratate2.cs",
-              "ToolTip": "D:\\Unity Hub\\project\\tank\\Assets\\Prefabs\\Ratate2.cs",
-              "RelativeToolTip": "Assets\\Prefabs\\Ratate2.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAwAAAAgAAAAAAAAAA==",
+              "Title": "UIbase.cs",
+              "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\UIbase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\UIbase.cs",
+              "ToolTip": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\UIbase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\game\\UIbase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T04:06:08.738Z",
+              "WhenOpened": "2025-09-27T06:47:15.478Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ratate.cs",
-              "DocumentMoniker": "D:\\Unity Hub\\project\\tank\\Assets\\Prefabs\\Ratate.cs",
-              "RelativeDocumentMoniker": "Assets\\Prefabs\\Ratate.cs",
-              "ToolTip": "D:\\Unity Hub\\project\\tank\\Assets\\Prefabs\\Ratate.cs",
-              "RelativeToolTip": "Assets\\Prefabs\\Ratate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T03:57:30.209Z"
             }
           ]
         }
