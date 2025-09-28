@@ -15,7 +15,8 @@ public class BeginPanel : UIbase<BeginPanel>
         };
         btn_Setting.clickEvent += () =>
         {
-            
+            BeginPanel.Instance.HideMe();
+            SettingPanel.Instance.ShowMe();
         };
         btn_Rank.clickEvent += () =>
         {

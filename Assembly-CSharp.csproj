@@ -69,9 +69,12 @@
     <Compile Include="Assets\Scripts\game\UIbase.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUIToggleGroup.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUIInput.cs" />
+    <Compile Include="Assets\Scripts\game\SettingPanel.cs" />
+    <Compile Include="Assets\Scripts\Data\MusicData.cs" />
     <Compile Include="Assets\Scripts\PlayerPrefsDataMgr\PlayerPrefsDataMgr.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUILabel.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Base\CustomGUIPos.cs" />
+    <Compile Include="Assets\Scripts\Data\DataMgr.cs" />
     <Compile Include="Assets\Scripts\game\Ratate.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUITexture.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUISlider.cs" />
