@@ -7,6 +7,7 @@ public class DataMgr
     private static DataMgr instance = new DataMgr();
     public static DataMgr Instance { get => instance; }
     public MusicData musicData;
+    public 
     private DataMgr() 
     {
         musicData = PlayerPrefsDataMgr.Instance.LoadData(typeof(MusicData),"musicData") as MusicData;
