@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UnityHub\\project\\tank\\",
+  "WorkspaceRootPath": "F:\\unity_hub\\tank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|d:\\unityhub\\project\\tank\\assets\\scripts\\data\\datamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|f:\\unity_hub\\tank\\assets\\scripts\\game\\rankpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\rankpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|F:\\unity_hub\\tank\\assets\\scripts\\data\\datamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\datamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|d:\\unityhub\\project\\tank\\assets\\scripts\\data\\musicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\musicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|F:\\unity_hub\\tank\\assets\\scripts\\game\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\uibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\uibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|F:\\unity_hub\\tank\\assets\\scripts\\game\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|F:\\unity_hub\\tank\\assets\\scripts\\data\\musicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\musicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|f:\\unity_hub\\tank\\assets\\scripts\\data\\rankdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\rankdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|F:\\unity_hub\\tank\\assets\\scripts\\game\\uibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\uibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,23 +43,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DataMgr.cs",
-              "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\Data\\DataMgr.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\DataMgr.cs",
-              "ToolTip": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\Data\\DataMgr.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Data\\DataMgr.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Title": "RankPanel.cs",
+              "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\RankPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\RankPanel.cs",
+              "ToolTip": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\RankPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\game\\RankPanel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T13:44:49.309Z",
+              "WhenOpened": "2025-09-29T01:32:40.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "SettingPanel.cs",
+              "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\SettingPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\SettingPanel.cs",
+              "ToolTip": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\SettingPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\game\\SettingPanel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T01:20:34.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeginPanel.cs",
+              "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\BeginPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\BeginPanel.cs",
+              "ToolTip": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\BeginPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\game\\BeginPanel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:32:50.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RankData.cs",
+              "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\Data\\RankData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\RankData.cs",
+              "ToolTip": "F:\\unity_hub\\tank\\Assets\\Scripts\\Data\\RankData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\RankData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:45:58.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MusicData.cs",
-              "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\Data\\MusicData.cs",
+              "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\Data\\MusicData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\MusicData.cs",
-              "ToolTip": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\Data\\MusicData.cs",
+              "ToolTip": "F:\\unity_hub\\tank\\Assets\\Scripts\\Data\\MusicData.cs",
               "RelativeToolTip": "Assets\\Scripts\\Data\\MusicData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,39 +107,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SettingPanel.cs",
-              "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\SettingPanel.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\SettingPanel.cs",
-              "ToolTip": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\SettingPanel.cs",
-              "RelativeToolTip": "Assets\\Scripts\\game\\SettingPanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DataMgr.cs",
+              "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\Data\\DataMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\DataMgr.cs",
+              "ToolTip": "F:\\unity_hub\\tank\\Assets\\Scripts\\Data\\DataMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\DataMgr.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T01:20:34.996Z"
+              "WhenOpened": "2025-09-28T13:44:49.309Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BeginPanel.cs",
-              "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\BeginPanel.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\BeginPanel.cs",
-              "ToolTip": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\BeginPanel.cs",
-              "RelativeToolTip": "Assets\\Scripts\\game\\BeginPanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T07:32:50.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UIbase.cs",
-              "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\UIbase.cs",
+              "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\UIbase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\UIbase.cs",
-              "ToolTip": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\UIbase.cs",
+              "ToolTip": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\UIbase.cs",
               "RelativeToolTip": "Assets\\Scripts\\game\\UIbase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T06:47:15.478Z"
+              "WhenOpened": "2025-09-27T06:47:15.478Z",
+              "EditorCaption": ""
             }
           ]
         }

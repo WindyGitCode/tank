@@ -20,7 +20,8 @@ public class BeginPanel : UIbase<BeginPanel>
         };
         btn_Rank.clickEvent += () =>
         {
-            
+            BeginPanel.Instance.HideMe();
+            RankPanel.Instance.ShowMe();
         };
         btn_Exit.clickEvent += () =>
         {
