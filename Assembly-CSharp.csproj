@@ -63,23 +63,25 @@
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUIToggle.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Base\CustomGUIControl.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUIButton.cs" />
-    <Compile Include="Assets\Scripts\game\BeginPanel.cs" />
-    <Compile Include="Assets\Scripts\game\Ratate2.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Base\CustomGUIRoot.cs" />
     <Compile Include="Assets\Scripts\game\UIbase.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUIToggleGroup.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUIInput.cs" />
-    <Compile Include="Assets\Scripts\game\SettingPanel.cs" />
+    <Compile Include="Assets\Scripts\game\gameScene\ConfirmPanel.cs" />
+    <Compile Include="Assets\Scripts\game\BeginScene\SettingPanel.cs" />
+    <Compile Include="Assets\Scripts\game\BeginScene\Ratate2.cs" />
+    <Compile Include="Assets\Scripts\game\gameScene\GamePanel.cs" />
+    <Compile Include="Assets\Scripts\game\BeginScene\RankPanel.cs" />
+    <Compile Include="Assets\Scripts\game\BeginScene\BKmusic.cs" />
     <Compile Include="Assets\Scripts\Data\MusicData.cs" />
     <Compile Include="Assets\Scripts\PlayerPrefsDataMgr\PlayerPrefsDataMgr.cs" />
     <Compile Include="Assets\Scripts\Data\RankData.cs" />
+    <Compile Include="Assets\Scripts\game\BeginScene\Ratate.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUILabel.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Base\CustomGUIPos.cs" />
     <Compile Include="Assets\Scripts\Data\DataMgr.cs" />
-    <Compile Include="Assets\Scripts\game\RankPanel.cs" />
-    <Compile Include="Assets\Scripts\game\Ratate.cs" />
+    <Compile Include="Assets\Scripts\game\BeginScene\BeginPanel.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUITexture.cs" />
-    <Compile Include="Assets\Scripts\game\BKmusic.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUISlider.cs" />
   </ItemGroup>
   <ItemGroup>

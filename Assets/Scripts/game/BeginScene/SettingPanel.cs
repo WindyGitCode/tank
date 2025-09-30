@@ -1,13 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SettingPanel : UIbase<SettingPanel>
 {
-    public CustomGUITexture bgr1;
-    public CustomGUITexture bgr2;
-    public CustomGUITexture bgr3;
-    public CustomGUILabel title;
     public CustomGUIToggle togMusic;
     public CustomGUIToggle togSound;
     public CustomGUISlider sliderMusic;
@@ -22,7 +19,14 @@ public class SettingPanel : UIbase<SettingPanel>
         exit.clickEvent += () => 
         {
             SettingPanel.Instance.HideMe();
-            BeginPanel.Instance.ShowMe();
+            if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("beginScene"))
+            {
+                BeginPanel.Instance.ShowMe();
+            }
+            else
+            {
+                GamePanel.Instance.ShowMe();
+            }
         };
         SettingPanel.Instance.HideMe();
     }
