@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "F:\\unity_hub\\tank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|f:\\unity_hub\\tank\\assets\\scripts\\game\\gamescene\\playerturret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\playerturret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|f:\\unity_hub\\tank\\assets\\scripts\\game\\gamescene\\playertank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\playertank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|F:\\unity_hub\\tank\\assets\\scripts\\game\\gamescene\\playerturret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\playerturret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|F:\\unity_hub\\tank\\assets\\scripts\\game\\gamescene\\tankbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\tankbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|F:\\unity_hub\\tank\\assets\\scripts\\game\\gamescene\\confirmpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\confirmpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|F:\\unity_hub\\tank\\assets\\scripts\\game\\gamescene\\cursorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\cursorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|F:\\unity_hub\\tank\\assets\\scripts\\game\\gamescene\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|F:\\unity_hub\\tank\\assets\\scripts\\game\\gamescene\\confirmpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\confirmpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|F:\\unity_hub\\tank\\assets\\scripts\\game\\beginscene\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,30 +46,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "CursorControl.cs",
+              "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\gameScene\\CursorControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\gameScene\\CursorControl.cs",
+              "ToolTip": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\gameScene\\CursorControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\game\\gameScene\\CursorControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T04:03:50.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerTurret.cs",
               "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\gameScene\\PlayerTurret.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\gameScene\\PlayerTurret.cs",
               "ToolTip": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\gameScene\\PlayerTurret.cs",
               "RelativeToolTip": "Assets\\Scripts\\game\\gameScene\\PlayerTurret.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T00:48:29.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T00:48:29.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlayerTank.cs",
               "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\gameScene\\PlayerTank.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\gameScene\\PlayerTank.cs",
               "ToolTip": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\gameScene\\PlayerTank.cs",
               "RelativeToolTip": "Assets\\Scripts\\game\\gameScene\\PlayerTank.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T00:25:25.776Z",
               "EditorCaption": ""
@@ -78,13 +93,13 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\gameScene\\TankBase.cs",
               "ToolTip": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\gameScene\\TankBase.cs",
               "RelativeToolTip": "Assets\\Scripts\\game\\gameScene\\TankBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T00:05:37.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ConfirmPanel.cs",
               "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\gameScene\\ConfirmPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\gameScene\\ConfirmPanel.cs",
@@ -102,13 +117,13 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\gameScene\\GamePanel.cs",
               "ToolTip": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\gameScene\\GamePanel.cs",
               "RelativeToolTip": "Assets\\Scripts\\game\\gameScene\\GamePanel.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T03:14:59.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DataMgr.cs",
               "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\Data\\DataMgr.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\DataMgr.cs",
@@ -120,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UIbase.cs",
               "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\UIbase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\UIbase.cs",
@@ -132,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SettingPanel.cs",
               "DocumentMoniker": "F:\\unity_hub\\tank\\Assets\\Scripts\\game\\BeginScene\\SettingPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\BeginScene\\SettingPanel.cs",
