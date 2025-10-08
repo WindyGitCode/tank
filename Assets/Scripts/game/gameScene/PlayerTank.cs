@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class PlayerTank : TankBase
 {
-    public GameObject nowWeapon;
+    public Weapon nowWeapon;
     private float turretRotateSpeed;
     public GameObject turret;
     private void Awake()
     {
-        moveSpeed = 10;
-        rotateSpeed = 50;
+        moveSpeed = 8;
+        rotateSpeed = 60;
         turretRotateSpeed = 150;
     }
     void Update()
@@ -25,6 +25,6 @@ public class PlayerTank : TankBase
     }
     public override void Fire()
     {
-        
+        nowWeapon.Fire();
     }
 }
