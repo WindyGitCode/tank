@@ -525,9 +525,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: title
       objectReference: {fileID: 0}
+    - target: {fileID: 6484793801204884148, guid: b6e7e5c443d1bd840a834a377142fb80, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6484793801204884150, guid: b6e7e5c443d1bd840a834a377142fb80, type: 3}
       propertyPath: guiPos.pos.x
-      value: 325.6
+      value: 371.1
       objectReference: {fileID: 0}
     - target: {fileID: 6484793801204884150, guid: b6e7e5c443d1bd840a834a377142fb80, type: 3}
       propertyPath: guiPos.pos.y
@@ -1394,7 +1398,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5276825208452531451, guid: 00aad726c43f92045816676f9da92e6d, type: 3}
       propertyPath: guiPos.width
-      value: 2000
+      value: 20000
       objectReference: {fileID: 0}
     - target: {fileID: 5276825208452531451, guid: 00aad726c43f92045816676f9da92e6d, type: 3}
       propertyPath: styleOnOrOff
@@ -1402,15 +1406,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5276825208452531451, guid: 00aad726c43f92045816676f9da92e6d, type: 3}
       propertyPath: guiPos.height
-      value: 1000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 5276825208452531451, guid: 00aad726c43f92045816676f9da92e6d, type: 3}
       propertyPath: content.m_Image
       value: 
-      objectReference: {fileID: 2800000, guid: 4af7a29f72ce7674ca14045b926ad1d0, type: 3}
+      objectReference: {fileID: 10307, guid: 0000000000000000f000000000000000, type: 0}
     - target: {fileID: 7695602950931323878, guid: 00aad726c43f92045816676f9da92e6d, type: 3}
       propertyPath: m_Name
       value: bgr1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7695602950931323878, guid: 00aad726c43f92045816676f9da92e6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2109,7 +2117,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 5376e981b7b7fdb4e857e1e26c7e8fe3, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 5164d4e07d3878d45b60278b1a5364ca, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -4961,10 +4969,14 @@ PrefabInstance:
     - target: {fileID: 5276825208452531451, guid: 00aad726c43f92045816676f9da92e6d, type: 3}
       propertyPath: content.m_Image
       value: 
-      objectReference: {fileID: 2800000, guid: 4af7a29f72ce7674ca14045b926ad1d0, type: 3}
+      objectReference: {fileID: 10307, guid: 0000000000000000f000000000000000, type: 0}
     - target: {fileID: 7695602950931323878, guid: 00aad726c43f92045816676f9da92e6d, type: 3}
       propertyPath: m_Name
       value: bgr1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7695602950931323878, guid: 00aad726c43f92045816676f9da92e6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
