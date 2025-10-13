@@ -13,6 +13,10 @@ public class PlayerTank : TankBase
         moveSpeed = 8;
         rotateSpeed = 80;
         turretRotateSpeed = 100;
+        maxHP = 100;
+        nowHP = 50;
+        atk = 30;
+        def = 10;
     }
     void Update()
     {
@@ -38,5 +42,21 @@ public class PlayerTank : TankBase
             Destroy(nowWeapon.gameObject);
         }
         nowWeapon = Instantiate(newWeapon, weaponPos,false);
+    }
+    public void AddHP(int Value)
+    {
+        nowHP += Value;
+        if (nowHP > maxHP)
+        {
+            nowHP = maxHP;
+        }
+    }
+    public void AddAtk(int Value)
+    {
+        atk += Value;
+    }
+    public void AddSpeed(int Value)
+    {
+        moveSpeed += Value;
     }
 }

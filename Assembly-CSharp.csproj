@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUIToggle.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Base\CustomGUIControl.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUIButton.cs" />
+    <Compile Include="Assets\Scripts\game\GameScene\Prop\Prop_AddSpeed.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Base\CustomGUIRoot.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUIToggleGroup.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUIInput.cs" />
@@ -76,6 +77,7 @@
     <Compile Include="Assets\Scripts\game\BeginScene\BKmusic.cs" />
     <Compile Include="Assets\Scripts\Data\MusicData.cs" />
     <Compile Include="Assets\Scripts\game\GameScene\EffectDestroy.cs" />
+    <Compile Include="Assets\Scripts\game\GameScene\Prop\Prop_AddAtk.cs" />
     <Compile Include="Assets\Scripts\PlayerPrefsDataMgr\PlayerPrefsDataMgr.cs" />
     <Compile Include="Assets\Scripts\game\GameScene\MapCameraControl.cs" />
     <Compile Include="Assets\Scripts\game\GameScene\GamePanel.cs" />
@@ -90,6 +92,7 @@
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUITexture.cs" />
     <Compile Include="Assets\Scripts\game\GameScene\ConfirmPanel.cs" />
     <Compile Include="Assets\Scripts\game\Other\UIbase.cs" />
+    <Compile Include="Assets\Scripts\game\GameScene\Prop\Prop_AddHP.cs" />
     <Compile Include="Assets\Scripts\game\GameScene\Weapon.cs" />
     <Compile Include="Assets\Scripts\实践小项目\CustomGUI\Control\CustomGUISlider.cs" />
   </ItemGroup>

@@ -11,6 +11,7 @@ public class GamePanel :UIbase<GamePanel>
     public CustomGUILabel labScore;
     public CustomGUILabel labTime;
     public CustomGUITexture hp;
+    public PlayerTank player;
     private void Start()
     {
         exit.clickEvent += () =>
@@ -27,6 +28,7 @@ public class GamePanel :UIbase<GamePanel>
     private void Update()
     {
         time += Time.deltaTime;
+        ShowHP(player.MaxHP, player.NowHP);
         UpdateInfo();
     }
     public void AddScore(int score)
@@ -38,7 +40,7 @@ public class GamePanel :UIbase<GamePanel>
     {
         if (nowHP >= 0)
         {
-            hp.guiPos.width *= nowHP / maxHP;
+            hp.guiPos.width = 300*(nowHP / maxHP);
         }
         else
         {
