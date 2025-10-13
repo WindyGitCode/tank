@@ -6,6 +6,7 @@ using UnityEngine;
 public class Bullet : MonoBehaviour
 {
     public float speed;
+    public TankBase fatherTank;
     public GameObject explosionPrefab;
     private void Awake()
     {
@@ -14,13 +15,22 @@ public class Bullet : MonoBehaviour
         audioSource.mute = !DataMgr.Instance.musicData.isSoundOpen;
         audioSource.Play();
     }
+    private void Start()
+    {
+        if (fatherTank.tag == "Enemy")
+        {
+            this.gameObject.GetComponent<Rigidbody>().useGravity = true;
+        }
+    }
     private void Update()
     {
         transform.Translate(Vector3.forward*speed*Time.deltaTime);
     }
     private void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "EnemyTank" || other.tag == "Wall")
+        if (other.tag == "Enemy"&&fatherTank.tag=="Player" ||
+            other.tag == "Player"&&fatherTank.tag=="Enemy" ||
+            other.tag == "Wall")
         {
             Destroy(this.gameObject);
             GameObject pre=Instantiate(explosionPrefab,this.transform.position, this.transform.rotation);

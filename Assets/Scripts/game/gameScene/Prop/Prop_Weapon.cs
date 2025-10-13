@@ -12,6 +12,7 @@ public class Prop_Weapon : PropBase
             DoWhileTrigger();
             int index = Random.Range(0, weaponList.Length);
             PlayerTank player= other.GetComponent<PlayerTank>();
+            weaponList[index].fatherTank = player;
             player.ChangeWeapon(weaponList[index]);
         }
     }

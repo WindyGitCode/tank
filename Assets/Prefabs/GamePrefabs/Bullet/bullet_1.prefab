@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: 7412651421205120212}
   - component: {fileID: -1559626143028086145}
   - component: {fileID: -5300382743112221744}
+  - component: {fileID: -8673028105959990319}
   m_Layer: 0
   m_Name: bullet_1
-  m_TagString: Untagged
+  m_TagString: bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50,6 +51,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 50
+  fatherTank: {fileID: 0}
   explosionPrefab: {fileID: 5540229620220214344, guid: 504fd26dca25ae04ab2294d71bd84bd2, type: 3}
 --- !u!135 &7412651421205120212
 SphereCollider:
@@ -195,6 +197,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &-8673028105959990319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 396265325054006382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a633dd68252218748a69a2345b921453, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2283879402530790139
 GameObject:
   m_ObjectHideFlags: 0
