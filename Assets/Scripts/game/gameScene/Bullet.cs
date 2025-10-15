@@ -8,25 +8,25 @@ public class Bullet : MonoBehaviour
     public float speed;
     public TankBase fatherTank;
     public GameObject explosionPrefab;
-    private void Awake()
+    protected void Awake()
     {
         AudioSource audioSource = this.GetComponent<AudioSource>();
         audioSource.volume = DataMgr.Instance.musicData.soundNum;
         audioSource.mute = !DataMgr.Instance.musicData.isSoundOpen;
         audioSource.Play();
     }
-    private void Start()
+    protected void Start()
     {
         if (fatherTank.tag == "Enemy")
         {
             this.gameObject.GetComponent<Rigidbody>().useGravity = true;
         }
     }
-    private void Update()
+    protected virtual void Update()
     {
         transform.Translate(Vector3.forward*speed*Time.deltaTime);
     }
-    private void OnTriggerEnter(Collider other)
+    protected void OnTriggerEnter(Collider other)
     {
         if (other.tag == "Enemy"&&fatherTank.tag=="Player" ||
             other.tag == "Player"&&fatherTank.tag=="Enemy" ||
@@ -38,6 +38,10 @@ public class Bullet : MonoBehaviour
             sound.volume =DataMgr.Instance.musicData.soundNum;
             sound.mute = !DataMgr.Instance.musicData.isSoundOpen;
             sound.Play();
+            if (other.tag != "Wall")
+            {
+                other.GetComponent<TankBase>().Wound(fatherTank);
+            }
         }
     }
 }

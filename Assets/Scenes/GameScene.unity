@@ -1911,6 +1911,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nowWeapon: {fileID: 1847266068}
+  fireCD: 0.3
+  explosionPrefab: {fileID: 2758388961624630586, guid: 17f35b50410428449afc6951ef68be40, type: 3}
 --- !u!1001 &443555652
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2447,6 +2449,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nowWeapon: {fileID: 1336403077}
+  fireCD: 1
+  explosionPrefab: {fileID: 2758388961624630586, guid: 17f35b50410428449afc6951ef68be40, type: 3}
 --- !u!1001 &587920290
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4416,6 +4420,10 @@ PrefabInstance:
       value: enemy1
       objectReference: {fileID: 0}
     - target: {fileID: 167258, guid: e6887b38fdeb80446bcd0db9888765ab, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 167258, guid: e6887b38fdeb80446bcd0db9888765ab, type: 3}
       propertyPath: m_TagString
       value: Enemy
       objectReference: {fileID: 0}
@@ -6086,7 +6094,7 @@ MonoBehaviour:
   gunPoints:
   - {fileID: 772065831}
   - {fileID: 52353354}
-  bullet: {fileID: 99860937293695361, guid: 9e3f32c10bf73994985c39c2c75b61d3, type: 3}
+  bullet: {fileID: 83798120096146000, guid: 9a5e9ef5772e9ff44bf8253fdce4a1c5, type: 3}
   fatherTank: {fileID: 387222721}
 --- !u!114 &1847266069
 MonoBehaviour:

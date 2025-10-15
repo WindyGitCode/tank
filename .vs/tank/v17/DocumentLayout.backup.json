@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\UnityHub\\project\\tank\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|d:\\unityhub\\project\\tank\\assets\\scripts\\game\\gamescene\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\gamescene\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\gamescene\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\gamescene\\prop\\prop_weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\prop\\prop_weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\gamescene\\effectdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\effectdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\gamescene\\playertank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\playertank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\gamescene\\enemytank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\enemytank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\gamescene\\prop\\prop_weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\prop\\prop_weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\other\\propbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,16 +39,12 @@
       "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\tankbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|d:\\unityhub\\project\\tank\\assets\\scripts\\game\\beginscene\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\beginscene\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\beginscene\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\gamescene\\prop\\prop_addspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\prop\\prop_addspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\gamescene\\effectdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\effectdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D601D269-876B-43DB-7E0E-E0BB98805469}|Assembly-CSharp.csproj|D:\\UnityHub\\project\\tank\\assets\\scripts\\game\\gamescene\\prop\\prop_addhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +74,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\Bullet.cs",
+              "ToolTip": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\game\\GameScene\\Bullet.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T01:27:44.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyTank.cs",
+              "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\EnemyTank.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\EnemyTank.cs",
+              "ToolTip": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\EnemyTank.cs",
+              "RelativeToolTip": "Assets\\Scripts\\game\\GameScene\\EnemyTank.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:29:30.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerTank.cs",
+              "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\PlayerTank.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\PlayerTank.cs",
+              "ToolTip": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\PlayerTank.cs",
+              "RelativeToolTip": "Assets\\Scripts\\game\\GameScene\\PlayerTank.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:25:25.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Prop_AddSpeed.cs",
               "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\Prop\\Prop_AddSpeed.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\Prop\\Prop_AddSpeed.cs",
@@ -86,20 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerTank.cs",
-              "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\PlayerTank.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\PlayerTank.cs",
-              "ToolTip": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\PlayerTank.cs",
-              "RelativeToolTip": "Assets\\Scripts\\game\\GameScene\\PlayerTank.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwDsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T00:25:25.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Prop_AddAtk.cs",
               "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\Prop\\Prop_AddAtk.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\Prop\\Prop_AddAtk.cs",
@@ -107,12 +135,11 @@
               "RelativeToolTip": "Assets\\Scripts\\game\\GameScene\\Prop\\Prop_AddAtk.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T02:14:23.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T02:14:23.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Prop_AddHP.cs",
               "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\Prop\\Prop_AddHP.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\Prop\\Prop_AddHP.cs",
@@ -124,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PropBase.cs",
               "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\Other\\PropBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\Other\\PropBase.cs",
@@ -132,12 +159,11 @@
               "RelativeToolTip": "Assets\\Scripts\\game\\Other\\PropBase.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T14:59:17.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T14:59:17.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Prop_Weapon.cs",
               "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\Prop\\Prop_Weapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\Prop\\Prop_Weapon.cs",
@@ -145,12 +171,11 @@
               "RelativeToolTip": "Assets\\Scripts\\game\\GameScene\\Prop\\Prop_Weapon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T14:49:26.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T14:49:26.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "EffectDestroy.cs",
               "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\EffectDestroy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\EffectDestroy.cs",
@@ -163,32 +188,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\Bullet.cs",
-              "ToolTip": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Scripts\\game\\GameScene\\Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T01:27:44.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Weapon.cs",
               "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\Weapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\Weapon.cs",
               "ToolTip": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\Weapon.cs",
               "RelativeToolTip": "Assets\\Scripts\\game\\GameScene\\Weapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T01:22:52.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T01:22:52.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "TankBase.cs",
               "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\gameScene\\TankBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\gameScene\\TankBase.cs",
@@ -196,12 +207,11 @@
               "RelativeToolTip": "Assets\\Scripts\\game\\gameScene\\TankBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T00:05:37.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T00:05:37.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GamePanel.cs",
               "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\GameScene\\GamePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\GamePanel.cs",
@@ -213,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ConfirmPanel.cs",
               "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\gameScene\\ConfirmPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\gameScene\\ConfirmPanel.cs",
@@ -225,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "DataMgr.cs",
               "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\Data\\DataMgr.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\DataMgr.cs",
@@ -237,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "SettingPanel.cs",
               "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\BeginScene\\SettingPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\BeginScene\\SettingPanel.cs",
@@ -245,12 +255,11 @@
               "RelativeToolTip": "Assets\\Scripts\\game\\BeginScene\\SettingPanel.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T03:15:12.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T03:15:12.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CursorControl.cs",
               "DocumentMoniker": "D:\\UnityHub\\project\\tank\\Assets\\Scripts\\game\\gameScene\\CursorControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\gameScene\\CursorControl.cs",

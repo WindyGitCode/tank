@@ -11,8 +11,8 @@ public class PlayerTank : TankBase
     private void Awake()
     {
         moveSpeed = 8;
-        rotateSpeed = 80;
-        turretRotateSpeed = 100;
+        rotateSpeed = 100;
+        turretRotateSpeed = 40;
         maxHP = 100;
         nowHP = 50;
         atk = 30;
@@ -26,6 +26,10 @@ public class PlayerTank : TankBase
         if (GamePanel.Instance.gameObject.activeSelf == true && Input.GetMouseButtonDown(0))
         {
             Fire();
+        }
+        if (nowHP <= 0)
+        {
+            Dead();
         }
     }
     public override void Fire()
@@ -58,5 +62,13 @@ public class PlayerTank : TankBase
     public void AddSpeed(int Value)
     {
         moveSpeed += Value;
+    }
+    public override void Wound(TankBase other)
+    {
+        base.Wound(other);
+    }
+    public override void Dead()
+    {
+        Debug.Log("Game Over");
     }
 }
