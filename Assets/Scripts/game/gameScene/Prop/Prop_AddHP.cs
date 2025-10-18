@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class Prop_AddHP : PropBase
 {
+    private void Start()
+    {
+        getEff= Resources.Load<GameObject>("Prefabs/CltEffectCross");
+    }
     private void OnTriggerEnter(Collider other)
     {
         

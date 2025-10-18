@@ -5,17 +5,17 @@ using UnityEngine;
 public class EnemyTank : TankBase
 {
     public Weapon nowWeapon;
-    private float timer = 0;
+    protected float timer = 0;
     public float fireCD=1;
     public GameObject explosionPrefab;
-    private void Start()
+    protected void Start()
     {
         atk = 20;
         def = 5;
         maxHP = 100;
         nowHP = maxHP;
     }
-    private void Update()
+    protected void Update()
     {
         timer += Time.deltaTime;
         if (timer> fireCD && GamePanel.Instance.gameObject.activeSelf == true)

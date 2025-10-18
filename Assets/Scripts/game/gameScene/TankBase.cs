@@ -24,6 +24,5 @@ abstract public class TankBase : MonoBehaviour
     public virtual void Dead()
     {
         Destroy(this.gameObject);
-        Debug.Log("dead");
     } 
 }
