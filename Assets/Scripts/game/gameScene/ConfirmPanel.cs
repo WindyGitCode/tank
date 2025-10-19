@@ -10,6 +10,8 @@ public class ConfirmPanel : UIbase<ConfirmPanel>
     public CustomGUIButton no;
     private void Start()
     {
+        Cursor.lockState = CursorLockMode.Confined;
+        Cursor.visible = true;
         exit.clickEvent += () =>
         {
             ConfirmPanel.Instance.HideMe();

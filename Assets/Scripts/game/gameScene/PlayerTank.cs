@@ -8,6 +8,7 @@ public class PlayerTank : TankBase
     private float turretRotateSpeed;
     public GameObject turret;
     public Transform weaponPos;
+    public bool isGaming;
     private void Awake()
     {
         moveSpeed = 8;
@@ -17,19 +18,23 @@ public class PlayerTank : TankBase
         nowHP = 50;
         atk = 30;
         def = 10;
+        isGaming = true;
     }
     void Update()
     {
-        transform.Translate(Input.GetAxis("Vertical")*Vector3.forward * Time.deltaTime * moveSpeed);
-        transform.Rotate(Input.GetAxis("Horizontal")*Vector3.up * Time.deltaTime * rotateSpeed);
-        turret.transform.Rotate(Input.GetAxis("Mouse X") * turretRotateSpeed * Vector3.up * Time.deltaTime);
-        if (GamePanel.Instance.gameObject.activeSelf == true && Input.GetMouseButtonDown(0))
+        if (isGaming)
         {
-            Fire();
-        }
-        if (nowHP <= 0)
-        {
-            Dead();
+            transform.Translate(Input.GetAxis("Vertical") * Vector3.forward * Time.deltaTime * moveSpeed);
+            transform.Rotate(Input.GetAxis("Horizontal") * Vector3.up * Time.deltaTime * rotateSpeed);
+            turret.transform.Rotate(Input.GetAxis("Mouse X") * turretRotateSpeed * Vector3.up * Time.deltaTime);
+            if (GamePanel.Instance.gameObject.activeSelf == true && Input.GetMouseButtonDown(0))
+            {
+                Fire();
+            }
+            if (nowHP <= 0)
+            {
+                Dead();
+            }
         }
     }
     public override void Fire()
@@ -69,6 +74,8 @@ public class PlayerTank : TankBase
     }
     public override void Dead()
     {
-        Debug.Log("Game Over");
+        GamePanel.Instance.HideMe();
+        isGaming = false;
+        FailurePanel.Instance.ShowMe();
     }
 }

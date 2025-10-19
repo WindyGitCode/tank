@@ -12,6 +12,8 @@ public class SettingPanel : UIbase<SettingPanel>
     public CustomGUIButton exit;
     void Start()
     {
+        Cursor.lockState = CursorLockMode.Confined;
+        Cursor.visible = true;
         togMusic.changeValue += (value) =>DataMgr.Instance.IsMusicOpenSetting(value);
         togSound.changeValue += (value) =>DataMgr.Instance.IsSoundOpenSetting(value);
         sliderMusic.changeValue += (value) =>DataMgr.Instance.MusicNumSetting(value);

@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class GamePanel :UIbase<GamePanel>
 {
-    float time = 0;
-    int score = 0;
+    public float time = 0;
+    public int score = 0;
     public CustomGUIButton exit;
     public CustomGUIButton setting;
     public CustomGUILabel labScore;
