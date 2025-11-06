@@ -9,13 +9,15 @@ public class PlayerTank : TankBase
     public GameObject turret;
     public Transform weaponPos;
     public bool isGaming;
+    public float fireCD;
+    private float fireTimer = 0;
     private void Awake()
     {
         moveSpeed = 8;
         rotateSpeed = 100;
         turretRotateSpeed = 40;
         maxHP = 100;
-        nowHP = 50;
+        nowHP = 100;
         atk = 30;
         def = 10;
         isGaming = true;
@@ -24,6 +26,7 @@ public class PlayerTank : TankBase
     {
         if (isGaming)
         {
+            fireTimer += Time.deltaTime;
             transform.Translate(Input.GetAxis("Vertical") * Vector3.forward * Time.deltaTime * moveSpeed);
             transform.Rotate(Input.GetAxis("Horizontal") * Vector3.up * Time.deltaTime * rotateSpeed);
             turret.transform.Rotate(Input.GetAxis("Mouse X") * turretRotateSpeed * Vector3.up * Time.deltaTime);
@@ -39,10 +42,14 @@ public class PlayerTank : TankBase
     }
     public override void Fire()
     {
-        if (nowWeapon != null)
+        if (fireTimer > fireCD)
         {
-            nowWeapon.Fire();
-        }
+            fireTimer = 0;
+            if (nowWeapon != null)
+            {
+                nowWeapon.Fire();
+            }
+        } 
     }
     public void ChangeWeapon(Weapon newWeapon)
     {

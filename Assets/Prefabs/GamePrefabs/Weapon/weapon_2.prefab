@@ -163,3 +163,5 @@ MonoBehaviour:
   gunPoints:
   - {fileID: 8987992571055768011}
   bullet: {fileID: 99860937293695361, guid: 9e3f32c10bf73994985c39c2c75b61d3, type: 3}
+  fatherTank: {fileID: 0}
+  FileCD: 1

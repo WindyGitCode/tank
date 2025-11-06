@@ -11,6 +11,8 @@ public class WinPanel : UIbase<WinPanel>
     public float nowtime;
     void Start()
     {
+        Cursor.lockState = CursorLockMode.Confined;
+        Cursor.visible = true;
         comfirm.clickEvent += () =>
         {
             if (input.content.text == "")

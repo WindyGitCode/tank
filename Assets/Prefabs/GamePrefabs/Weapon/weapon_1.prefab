@@ -167,6 +167,8 @@ MonoBehaviour:
   - {fileID: 6381334085046308428}
   - {fileID: 8517216370925993850}
   bullet: {fileID: 396265325054006382, guid: 749d40b6258333c45aefbfa8a51e1de4, type: 3}
+  fatherTank: {fileID: 0}
+  FileCD: 1
 --- !u!1 &6530558211236553005
 GameObject:
   m_ObjectHideFlags: 0

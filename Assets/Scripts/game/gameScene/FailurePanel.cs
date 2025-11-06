@@ -9,6 +9,8 @@ public class FailurePanel : UIbase<FailurePanel>
     public CustomGUIButton btnReturnMenu;
     void Start()
     {
+        Cursor.lockState = CursorLockMode.Confined;
+        Cursor.visible = true;
         btnRegame.clickEvent += () => 
         {
             FailurePanel.Instance.HideMe();
@@ -20,5 +22,9 @@ public class FailurePanel : UIbase<FailurePanel>
         };
         FailurePanel.Instance.HideMe();
     }
-
+    private void OnEnable()
+    {
+        Cursor.lockState = CursorLockMode.Confined;
+        Cursor.visible = true;
+    }
 }

@@ -55,7 +55,7 @@ public class DataMgr
         rankData.rankInfos.Sort((a, b) =>a.time > b.time ? 1 : -1);
         for(int i = rankData.rankInfos.Count; i > 9; i--)
         {
-            rankData.rankInfos.RemoveAt(i);
+            rankData.rankInfos.RemoveAt(i-1);
         }
         PlayerPrefsDataMgr.Instance.SaveData(rankData, "rankData");
     }
